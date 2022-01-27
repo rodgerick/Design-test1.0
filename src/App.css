@@ -6,8 +6,8 @@
 }
 
 .home,
-.services,
-.products,
+.about,
+.contact,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -16,7 +16,7 @@
   font-size: 3rem;
 }
 
-.services {
+.contact {
   background-image: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-2.jpg?raw=true);
   background-position: center;
   background-size: cover;
@@ -25,10 +25,10 @@
   font-size: 100px;
 }
 
-.products {
+.about {
   background-image: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-1.jpg?raw=true);
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
