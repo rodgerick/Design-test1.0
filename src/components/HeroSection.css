@@ -7,8 +7,8 @@ video {
 }
 
 .hero-container {
-  /* background: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-home.jpg?raw=true)
-  center center/cover no-repeat; */
+  background: url(https://res.cloudinary.com/duol0lmxj/image/upload/v1649202644/Wedding_photo_sample_qov1md.jpg)
+  center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;

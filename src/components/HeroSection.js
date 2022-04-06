@@ -6,16 +6,16 @@ import "../App.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-1.mp4" autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What is you waiting for?</p>
+      {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
+      <h1>Jonathan & Irene are getting married</h1>
+      <p>May 20, 2022</p>
       <div className="hero-btns">
         <Button
           className="btns"
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          GET STARTED
+          GET DIRECTIONS
         </Button>
         <Button
           className="btns"

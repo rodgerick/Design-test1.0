@@ -102,7 +102,7 @@ function Footer() {
               <i className="fab fa-typo3" />
             </Link>
           </div>
-          <small className="website-rights">TRVL &#169; 2021</small>
+          <small className="website-rights">Heninger &#169; 2022</small>
           <div className="social-icons">
             <Link
               to={{
