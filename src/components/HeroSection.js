@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className="hero-container">
       {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
-      <h1>Jonathan & Irene are getting married</h1>
+      <h1>Jonathan & Irene</h1>
       <p>May 20, 2022</p>
       <div className="hero-btns">
         <Button
@@ -15,14 +15,14 @@ function HeroSection() {
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          GET DIRECTIONS
+          DIRECTIONS
         </Button>
         <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          WATCH TRAILER <i className="far fa-play-circle" />
+          REGISTRY
         </Button>
       </div>
     </div>

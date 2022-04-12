@@ -131,6 +131,11 @@
     font-size: 2rem;
   }
 
+  .fa-bars {
+    color: #fff;
+    font-size: 2rem;
+  }
+
   .nav-links-mobile {
     display: block;
     text-align: center;

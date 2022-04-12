@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Button } from "./Button";
+// import { Button } from "./Button";
 import "./Footer.css";
 
 function Footer() {
@@ -8,14 +8,13 @@ function Footer() {
     <div className="footer-container">
       <section className="footer-subscription">
         <p className="footer-subscription-heading">
-          Join the newsletter to recieve email notifications about our best
-          vacay deals!
+          something here if you want a footer
         </p>
         <p className="footer-subscription-text">
-          You can unsubscribe at anytime.
+          something else here
         </p>
         <div className="input-areas">
-          <form>
+          {/* <form>
             <input
               type="email"
               name="email"
@@ -23,21 +22,21 @@ function Footer() {
               className="footer-input"
             />
             <Button buttonStyle="btn--outline">Subscribe</Button>
-          </form>
+          </form> */}
         </div>
       </section>
       <div className="footer-links">
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
-            <h2>About us</h2>
-            <Link to="/sign-up">How it works</Link>
+            <h2>IDK</h2>
+            <Link to="/sign-up">marragea and such</Link>
             <Link to="/">Testimonials</Link>
             <Link to="/contact">Careers</Link>
             <Link to="/about">Investors</Link>
             <Link to="/">Terms and Conditions</Link>
           </div>
           <div class="footer-link-items">
-            <h2>Contact Us</h2>
+            <h2>what to</h2>
             <Link to="/">Contact</Link>
             <Link to="/">Support</Link>
             <Link to="/">Destinations</Link>
@@ -45,14 +44,14 @@ function Footer() {
           </div>
           <div className="footer-link-wrapper">
             <div className="footer-link-items">
-              <h2>Videos</h2>
+              <h2>put</h2>
               <Link to="/">Submit Video</Link>
               <Link to="/">Ambassadors</Link>
               <Link to="/">Agency</Link>
               <Link to="/">Influencer</Link>
             </div>
             <div class="footer-link-items">
-              <h2>Social Media</h2>
+              <h2>here</h2>
               <Link
                 to={{
                   pathname: "https://www.youtube.com/watch?v=T-VqfCMUtYA",
@@ -98,11 +97,11 @@ function Footer() {
         <div className="social-media-wrap">
           <div className="footer-logo">
             <Link to="/" className="social-logo">
-              TRVL
-              <i className="fab fa-typo3" />
+              J&I
+              <i className="fas fa-heart" />
             </Link>
           </div>
-          <small className="website-rights">Heninger &#169; 2022</small>
+          <small className="website-rights">Rodgerick &#169; 2022</small>
           <div className="social-icons">
             <Link
               to={{

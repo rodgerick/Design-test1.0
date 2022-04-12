@@ -18,28 +18,28 @@
 }
 
 .contact {
-  background-image: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-2.jpg?raw=true);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://res.cloudinary.com/duol0lmxj/image/upload/v1649357281/J_IV_yxlcs8.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 10px;
 }
 
 .about {
-  background-image: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-1.jpg?raw=true);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IM_jyigry.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 10px;
 }
 
 .sign-up {
-  background-image: url(https://github.com/briancodex/react-website-v1/blob/master/public/images/img-8.jpg?raw=true);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IR_s3okgm.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 10px;
 }
