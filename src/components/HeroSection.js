@@ -17,13 +17,6 @@ function HeroSection() {
         >
           DIRECTIONS
         </Button>
-        <Button
-          className="btns"
-          buttonStyle="btn--primary"
-          buttonSize="btn--large"
-        >
-          REGISTRY
-        </Button>
       </div>
     </div>
   );

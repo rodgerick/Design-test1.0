@@ -1,8 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
-import { Link } from 'react-router-dom'
-import { Button } from './Button'
+
 function Cards() {
   return (
     <div className="cards">
@@ -18,15 +17,9 @@ function Cards() {
             />
             <CardItem
               src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357281/J_IV_yxlcs8.jpg"
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat, quam eu commodo vulputate, augue erat molestie nunc, a vulputate."
-              label="Venmo"
+              text="@Jonathan-Heninger"
+              label="Venmo & Registry"
               path="/contact"
-            />
-            <CardItem
-              src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IR_s3okgm.jpg"
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat, quam eu commodo vulputate, augue erat molestie nunc, a vulputate."
-              label="Registry"
-              path="/sign-up"
             />
             <CardItem
               src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IM_jyigry.jpg"
