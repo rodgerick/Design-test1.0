@@ -5,7 +5,7 @@ import './Cards.css'
 function Cards() {
   return (
     <div className="cards">
-      <h1> Information </h1>
+      <h1> See links below for directions, registry and info on the traditional Filipino prosperity dance that will be taking place.</h1>
       <div className="card__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
