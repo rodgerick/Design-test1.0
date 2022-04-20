@@ -23,7 +23,7 @@ function Cards() {
             />
             <CardItem
               src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IM_jyigry.jpg"
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat, quam eu commodo vulputate, augue erat molestie nunc, a vulputate. "
+              text="Learn more about the Prosperity Dance tradition!"
               label="Prosperity Dance"
               path="/about"
             />
