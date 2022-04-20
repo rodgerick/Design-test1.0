@@ -9,6 +9,7 @@
 .home,
 .about,
 .contact,
+.sign-up,
 .directions {
   display: flex;
   height: 100vh;
@@ -46,6 +47,13 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.sign-up {
+  background-image: linear-gradient(black, grey);
+  background-color: black;
   justify-content: center;
   text-align: center;
 }
