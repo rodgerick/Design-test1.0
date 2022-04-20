@@ -15,9 +15,8 @@
 .styled--p--about{
   text-indent: 10px;
   text-decoration: none;
-  font-size: 15px;
-  word-break: keep-all;
-  width: 350px;
+  font-size: 20px;
+  width: flex;
   text-align: left;
   margin-top: 10px;
   padding-left: 40px;

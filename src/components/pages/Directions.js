@@ -1,20 +1,20 @@
 import React from "react";
 import "../../App.css";
-import "./PagesButton.css";
+import "./PagesStyles.css";
 
 export default function SignUp() {
   return (
     <>
-      <div className="sign-up">
+      <div className="directions">
         <ul>
-          <h1>Directions to the Venue: </h1>
+          <h1>Directions to Hailstone Event Center</h1>
           <p>Deer Hollow Rd, Heber City, UT 84032</p>
           <a
-            href="https://goo.gl/maps/DYZyzKxY4nsJjs916"
+            href="https://goo.gl/maps/HMVVB9vKLcyGyyLH8"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button class="styled--button" >DIRECTIONS</button>
+            <button class="styled--button">DIRECTIONS</button>
           </a>
         </ul>
       </div>

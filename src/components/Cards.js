@@ -13,7 +13,7 @@ function Cards() {
               src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357284/J_I2_lxfvmo.jpg"
               text="Hailstone Event Center, Deer Hollow Rd, Heber City, UT 84032"
               label="Directions"
-              path="/sign-up"
+              path="/directions"
             />
             <CardItem
               src="https://res.cloudinary.com/duol0lmxj/image/upload/v1649357281/J_IV_yxlcs8.jpg"

@@ -9,9 +9,9 @@
 .home,
 .about,
 .contact,
-.sign-up {
+.directions {
   display: flex;
-  height: 90vh;
+  height: 100vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
@@ -23,7 +23,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 25px;
+  font-size: 20px;
   justify-content: center;
   text-align: center;
 }
@@ -39,7 +39,7 @@
   text-align: center;
 }
 
-.sign-up {
+.directions {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://res.cloudinary.com/duol0lmxj/image/upload/v1649357280/J_IR_s3okgm.jpg);
   background-position: center;
   background-size: cover;
