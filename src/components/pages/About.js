@@ -16,6 +16,7 @@ export default function About() {
             good luck and fortune upon the newlyweds and is considered a way to
             help the newlyweds get started financially.
           </p>
+          <button className="styled-btn--outline">HEHE</button>
         </ul>
       </div>
     </>
